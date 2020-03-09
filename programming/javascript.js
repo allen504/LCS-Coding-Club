@@ -21,7 +21,7 @@ else{
 
 //for loop
 for (var i = 0; i < 10; i++){
-  print("hello" + i)
+  print("hello" + i);
 }
 
 //while loop?
