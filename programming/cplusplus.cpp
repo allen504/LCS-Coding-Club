@@ -1,9 +1,13 @@
 //C++ IDE: https://www.onlinegdb.com/online_c++_compiler
 
 //this is how you include libraries
-#include <iostream>
 
-//some basic data types in c++
+
+#include <stdio.h>
+
+int main()
+{
+    //some basic data types in c++
 
 //integers
 int age = 24;
@@ -39,3 +43,7 @@ for (int i = 0; i < 10; i++){
 //while loop?
 
 //function?
+
+    return 0;
+}
+
